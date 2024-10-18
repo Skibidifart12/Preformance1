@@ -1,0 +1,51 @@
+.head1 {
+    width: 400px;
+    background-color: rgb(134, 40, 37); 
+    border: 15px solid rgba(77, 37, 32, 0.966);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size:70px;   
+    color: rgb(16, 197, 107); 
+    font-family: Lucida Console;
+  }
+
+  .personal {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+
+.personal:hover img {
+    content: url("./PrefImages/personalbuttonon.jpg");
+}
+
+
+.fav {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+
+.fav:hover img {
+    content: url("./PrefImages/favoriteonbutton.png");
+}
+
+.motto {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+
+.motto:hover img {
+    content: url("./PrefImages/mottoon.jpg");
+}

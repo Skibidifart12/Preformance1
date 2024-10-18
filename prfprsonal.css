@@ -1,0 +1,67 @@
+.style{
+    h1 {
+        border-top-style: solid;
+        border-top-color: rgb(206, 17, 17);
+      }
+}
+
+.pagehead{
+        border-style: solid;
+        border-top-color: rgb(228, 149, 120);
+}
+
+.box1{
+    position: relative;
+    left: 10vb;
+    bottom: 150px;
+    text-align: center;
+    width: 500px;
+    height: 450px;
+    padding: 10px;
+    border: 7px solid rgb(170, 14, 14);
+    background-color: rgb(217, 212, 228);
+    margin: 0;
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;   
+}
+
+.box2 {
+    position: relative;
+    left: 135vb;
+    bottom: 645px;
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    padding: 10px;
+    background-color: rgb(217, 212, 228);
+    border: 7px solid rgb(170, 14, 14);
+    margin: 0;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+
+.box3{
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: relative;
+    left: 83vb;
+    bottom: 900px;
+    text-align: center;
+    width: 300px;
+    height: 190px;
+    padding: 10px;
+    margin: 0;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.box4 {
+    overflow-y: auto;
+    font-family: "Times New Roman", Times, serif;
+    position: relative;
+    left: 45vb;
+    bottom: 800px;
+    text-align: center;
+    width: 1000px;
+    height: 190px;
+    padding: 10px;
+    margin: 0;
+    border: 7px solid rgb(122, 9, 9);
+    box-shadow: rgba(0, 0, 0, 0.61) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
